@@ -1,21 +1,35 @@
 project:
   type: website
+  execute-dir: project
 
 website:
+  title: "Zesen Ma"
+  reader-mode: true
   navbar:
+    title: false
+    background: white
+    foreground: "gray-800"
+    collapse-below: sm
     left:
       - href: index.qmd
-        text: Home
-      - href: about.qmd
-        text: Bio
+        text: About
       - href: projects.qmd
-        text: Projects
-
+        text: Project
+    right: 
+      - icon: github
+        menu: 
+        - text: Github Profile
+          url: https://github.com/senma22
+  page-footer:
+    right: "&copy; 2024, Zesen Ma"
+          
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
 
+execute: 
+  freeze: auto
 
 

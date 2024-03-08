@@ -1,23 +1,30 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "stats140xp_website",
+    "title": "Zesen Ma",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "This is my personal website\nMy name is Sen Ma. I am a senior at UCLA majoring in Statistics and Data Science, minoring Digital Humanities.\nMore information can be found in my CV"
   },
   {
-    "objectID": "index.html#zesen-mas-website",
-    "href": "index.html#zesen-mas-website",
-    "title": "stats140xp_website",
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "My Projects",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Here are my projects from Statistical Model and Data Mining Course:\nStats 101B project\nStats 101C project\n\n\n\nMy Digital Humanities Portfolio can be found here: https://senma22.github.io/my_Publii_website/"
+  },
+  {
+    "objectID": "projects.html#statistic-and-data-sciecne-course-projects",
+    "href": "projects.html#statistic-and-data-sciecne-course-projects",
+    "title": "My Projects",
+    "section": "",
+    "text": "Here are my projects from Statistical Model and Data Mining Course:\nStats 101B project\nStats 101C project"
+  },
+  {
+    "objectID": "projects.html#digital-humanities-course-projects",
+    "href": "projects.html#digital-humanities-course-projects",
+    "title": "My Projects",
+    "section": "",
+    "text": "My Digital Humanities Portfolio can be found here: https://senma22.github.io/my_Publii_website/"
   }
 ]

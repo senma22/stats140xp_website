@@ -1,0 +1,17 @@
+---
+title: "My Projects"
+---
+
+# Projects 
+
+## Statistic and Data Sciecne Course Projects: 
+
+Here are my projects from Statistical Model and Data Mining Course: 
+
+Stats 101B [project](/Stats_Projects/stats101B.pdf "project")
+
+Stats 101C [project](/Stats_Projects/stats101C.pdf "project")
+
+## Digital Humanities Course Projects: 
+
+My Digital Humanities Portfolio can be found here: <https://senma22.github.io/my_Publii_website/>

@@ -1,13 +1,20 @@
 ---
-title: "stats140xp_website"
+toc: false
+about: 
+  template: trestles
+  links:
+      - icon: linkedin
+        text: Linkedin
+        url: https://www.linkedin.com/in/andrew-ma-a41085215/
+      - icon: inbox-fill
+        text: Email
+        url: "mailto:zesenma22@gmail.com"
+      
+image: profile_pic.png
 ---
 
-## Zesen Ma's Website
+This is my personal website
 
-This is a Quarto website.
+My name is Sen Ma. I am a senior at UCLA majoring in Statistics and Data Science, minoring Digital Humanities. 
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+More information can be found in my [CV](/CV/CV_Sen_Ma.pdf "CV")
